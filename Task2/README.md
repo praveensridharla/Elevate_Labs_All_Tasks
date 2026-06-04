@@ -43,6 +43,3 @@ If you want, I can add example screenshots, sample data, or persist records to a
 ![alt text](<Screenshot 2026-06-01 210805.png>)
 ![alt text](<Screenshot 2026-06-01 210834.png>)
 ![alt text](<Screenshot 2026-06-01 210847.png>)
-
-
-
