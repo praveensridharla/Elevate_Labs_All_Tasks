@@ -1,0 +1,9 @@
+Application ID,Student Name,Email,Merit Score,Course Code,Course Name,Cut-Off,Status,Reviewed By,Reviewed At,Documents Verified
+1,"Arjun Sharma","arjun.sharma@email.com",83.500,"CS101","B.Tech Computer Science",75.000,Approved,"admin",2024-01-15 10:30,"Yes"
+2,"Priya Patel","priya.patel@email.com",81.200,"CS101","B.Tech Computer Science",75.000,Approved,"admin",2024-01-15 10:31,"Yes"
+3,"Rahul Verma","rahul.verma@email.com",79.800,"CS101","B.Tech Computer Science",75.000,Approved,"admin",2024-01-15 10:32,"No"
+4,"Sneha Reddy","sneha.reddy@email.com",77.500,"CS101","B.Tech Computer Science",75.000,Approved,"admin",2024-01-15 10:33,"Yes"
+5,"Kiran Nair","kiran.nair@email.com",88.000,"EC101","B.Tech Electronics & Comm.",70.000,Approved,"admin",2024-01-15 10:34,"Yes"
+6,"Deepa Singh","deepa.singh@email.com",82.300,"EC101","B.Tech Electronics & Comm.",70.000,Approved,"admin",2024-01-15 10:35,"Yes"
+7,"Amit Kumar","amit.kumar@email.com",74.100,"ME101","B.Tech Mechanical Engineering",65.000,Approved,"admin",2024-01-15 10:36,"No"
+8,"Lakshmi Iyer","lakshmi.iyer@email.com",71.900,"ME101","B.Tech Mechanical Engineering",65.000,Approved,"admin",2024-01-15 10:37,"Yes"

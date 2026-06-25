@@ -1,0 +1,20 @@
+==========================================================================================================
+                        COLLEGE ADMISSION MANAGEMENT SYSTEM
+                              MERIT LIST REPORT
+                    Cut-Off: 65.0 | Generated: 2024-01-15 10:45
+==========================================================================================================
+  Rank  ID       Full Name                      Email                          10th%    12th%  Entrance      Merit
+----------------------------------------------------------------------------------------------------------
+  1     1        Kiran Nair                     kiran.nair@email.com           92.00    90.00     76.00     88.000
+  2     5        Arjun Sharma                   arjun.sharma@email.com         88.00    85.00     74.00     83.500
+  3     6        Deepa Singh                    deepa.singh@email.com          87.00    83.00     71.00     82.300
+  4     2        Priya Patel                    priya.patel@email.com          85.00    82.00     72.00     81.200
+  5     3        Rahul Verma                    rahul.verma@email.com          82.00    80.00     74.00     79.800
+  6     4        Sneha Reddy                    sneha.reddy@email.com          80.00    78.00     71.00     77.500
+  7     7        Amit Kumar                     amit.kumar@email.com           78.00    75.00     68.00     74.100
+  8     8        Lakshmi Iyer                   lakshmi.iyer@email.com         76.00    73.00     65.00     71.900
+  9     9        Vikram Rao                     vikram.rao@email.com           74.00    70.00     61.00     68.800
+  10    10       Meena Desai                    meena.desai@email.com          72.00    68.00     60.00     67.000
+----------------------------------------------------------------------------------------------------------
+  Total Eligible Students: 10
+==========================================================================================================
